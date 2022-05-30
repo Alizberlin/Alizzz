@@ -27,10 +27,10 @@
 </div>
 
 
-<h1 align="left">
+<h2 align="left">
   About me :
   <img src="https://media3.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47mamrlp0l46uxj1z5wwn6j0pf48a9bu0waz5jik34&rid=giphy.gif&ct=s" width="50px"/>
-</h1>
+</h2>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> lives in Germany.
 
@@ -43,7 +43,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alizzz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-r-388456ab)
 
 
-### :hammer_and_wrench: Languages and Tools :
+&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="left">
+ :hammer_and_wrench: Languages and Tools :
+  </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -60,7 +63,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="left">
+:fire: My Stats :
+  </h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alizberlin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alizberlin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
