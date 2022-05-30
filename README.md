@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/ali-r-388456ab">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/blog-red?style=for-the-badge&logo=blog&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/web-blue?style=for-the-badge&logo=web&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://alizzz.herokuapp.com">
+  <img src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=blog&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
