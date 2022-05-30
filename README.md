@@ -1,4 +1,3 @@
-# Alizzz
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611a833f4c095eed1fd50a85b5643be75bdf61c8a26&rid=giphy.gif&ct=s" width="200"/>
@@ -21,11 +20,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 
 <h2 align="left">
   About me :
