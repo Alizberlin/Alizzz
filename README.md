@@ -18,12 +18,12 @@
 
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 <h2 align="left">
   About me :
-  <img src="https://media3.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47mamrlp0l46uxj1z5wwn6j0pf48a9bu0waz5jik34&rid=giphy.gif&ct=s" width="50px"/>
+  <img src="https://media3.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47mamrlp0l46uxj1z5wwn6j0pf48a9bu0waz5jik34&rid=giphy.gif&ct=s" width="50" height="50"/>
 </h2>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> lives in Germany.
