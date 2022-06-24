@@ -26,7 +26,9 @@
   <img src="https://media3.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47mamrlp0l46uxj1z5wwn6j0pf48a9bu0waz5jik34&rid=giphy.gif&ct=s" width="50" height="50"/>
 </h2>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> lives in Germany.
+I am Ali, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> lives in Germany.
+
+- :telescope: I have recently changed my career from Operations Management to Web Development.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
