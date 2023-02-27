@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ali-r-388456ab">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://alizzz.herokuapp.com">
+  <a href="https://ali-cv.vercel.app">
   <img src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=blog&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
