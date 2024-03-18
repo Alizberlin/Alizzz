@@ -13,7 +13,7 @@
 </div>
 
 <div id="views-counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=Alizberlin&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Alizcode&style=flat-square&color=blue" alt=""/>
   </div>
 
 <h1 align="center">
@@ -29,7 +29,7 @@
 My name is Ali. I am google certified data analyst and web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I live in Germany.
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Freelance Web developer and contributing to frontend and backend projects for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -53,7 +53,7 @@ My name is Ali. I am google certified data analyst and web developer. <img src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
@@ -65,8 +65,8 @@ My name is Ali. I am google certified data analyst and web developer. <img src="
 :fire: My Stats :
   </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alizberlin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alizcode&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alizberlin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alizcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
