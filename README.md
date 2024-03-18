@@ -16,17 +16,18 @@
 <img src="https://komarev.com/ghpvc/?username=Alizcode&style=flat-square&color=blue" alt="Profile views"/>
   </div>
 
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
+
 
 <h2 align="left">
   About me :
   <img src="https://media3.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47mamrlp0l46uxj1z5wwn6j0pf48a9bu0waz5jik34&rid=giphy.gif&ct=s" width="50" height="50"/>
 </h2>
 
-I'm Ali, Google certified data analysis and web developer, I bring a unique blend of skills to the table. As a freelance web developer, I thrive on contributing to diverse projects, whether it's shaping the frontend interface or optimizing backend functionalities to enhance user experiences. Beyond web development, my proficiency extends to data analysis, where I leverage insights to inform strategic decision-making. I'm also venturing into technical content writing, channeling my passion for technology into informative narratives. Outside of work, I enjoy immersing myself in problem-solving challenges on GitHub. Let's connect and collaborate on exciting ventures ahead. You can reach out to me through the following channel: [![Linkedin Badge](https://img.shields.io/badge/-Alizzz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-r-388456ab)
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> 
+ I'm Ali, a Google-certified data analyst and web developer. As a freelance web developer, I thrive on contributing to diverse projects, whether it's crafting engaging frontend interfaces or fine-tuning backend functionalities to elevate user experiences. Beyond web development, my expertise extends to data analysis, where I harness insights to drive strategic decision-making. Excitingly, I'm also delving into technical content writing, channeling my passion for technology into informative narratives. Outside of work, you'll find me immersed in problem-solving challenges on GitHub. Let's connect and collaborate on exciting ventures ahead! Feel free to reach out through the following channel:
+ &nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/-Alizzz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-r-388456ab)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,7 +62,7 @@ I'm Ali, Google certified data analysis and web developer, I bring a unique blen
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
 
 
